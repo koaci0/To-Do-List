@@ -19,6 +19,8 @@ Documentation:
 Side Missions:
   - "[ ] Gym"
 
+---
+
 ### 📝 3/11/26 TUESDAY
 
 ### Temporary Missions
