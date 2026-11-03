@@ -19,6 +19,7 @@
 
 ### Side Missions
 - [ ] Gym
+
 ---
 
 ### 📝 3/11/26 TUESDAY
@@ -42,3 +43,7 @@
 - [ ] Gym
 
 ### Ambition
+
+
+
+
