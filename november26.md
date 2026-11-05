@@ -51,7 +51,7 @@ Side Missions:
 - [ ] Insert interface
 
 ### Hobs Missions
-- [ ] Book
+- [x] Book
 - [ ] Arabic
 
 ### Documentation
