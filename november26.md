@@ -43,6 +43,28 @@ Side Missions:
 
 ### Ambition
 
+---
 
+### 📝 5/11/26 THURSDAY
+
+### Temporary Missions
+- [ ] Insert interface
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+
+### Documentation
+- [x] Food structure & Diet
+- [ ] Saas base system - Ideas included
+- [x] Draw draft Roadmap
+- [x] Rules for IG
+- [ ] Budget
+- [ ] identity Tree - Who do i want to become. WHat are my traits. What kind of life i wanna build.
+
+### Side Missions
+- [ ] Gym
+
+### Ambition
 
 
