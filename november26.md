@@ -74,6 +74,7 @@ Side Missions:
 ### Main Missions
 - [ ] Black Paris Podcast
 - [ ] Ridge Podcast
+- [x] Igloo experiment P3
 
 ### Daily Missions
 - [ ] Insert interface
