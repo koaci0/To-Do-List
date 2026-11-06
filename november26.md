@@ -51,14 +51,14 @@ Side Missions:
 - [ ] Insert interface
 
 ### Hobs Missions
-- [x] Book
+- [ ] Book
 - [ ] Arabic
 
 ### Documentation
-- [x] Food structure & Diet
+- [ ] Food structure & Diet
 - [ ] Saas base system - Ideas included
-- [x] Draw draft Roadmap
-- [x] Rules for IG
+- [ ] Draw draft Roadmap
+- [ ] Rules for IG
 - [ ] Budget
 - [ ] identity Tree - Who do i want to become. WHat are my traits. What kind of life i wanna build.
 
@@ -67,4 +67,31 @@ Side Missions:
 
 ### Ambition
 
+---
+
+### 📝 6/11/26 THURSDAY
+
+### Main Missions
+- [ ] Black Paris Podcast
+- [ ] Ridge Podcast
+
+### Daily Missions
+- [ ] Insert interface
+- [ ] Black Paris Podcast
+- [ ] Ridge Podcast
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+- [ ] Drawing
+
+### Documentation
+- [ ] Food structure & Diet
+- [ ] Saas base system - Ideas included
+- [ ] Draw draft Roadmap
+- [ ] Rules for IG / ghost mode included
+- [ ] identity Tree - Who do i want to become. WHat are my traits. What kind of life i wanna build.
+
+### Side Missions
+- [ ] Gym
 
