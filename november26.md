@@ -96,7 +96,7 @@ Side Missions:
 ### Side Missions
 - [ ] Gym
 
-===
+---
 
 ### 📝 8/11/26 THURSDAY
 
