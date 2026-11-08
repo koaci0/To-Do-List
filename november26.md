@@ -107,6 +107,8 @@ Side Missions:
 - [ ] Overall Organizations
 
 ### Daily Missions
+- [ ] Remove section 1 & 2
+- [ ] 
 
 ### Hobs Missions
 - [ ] Book
