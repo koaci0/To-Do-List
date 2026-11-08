@@ -96,3 +96,27 @@ Side Missions:
 ### Side Missions
 - [ ] Gym
 
+===
+
+### 📝 8/11/26 THURSDAY
+
+### Main Missions
+- [ ] Black Paris Podcast
+- [ ] Ridge Podcast
+- [ ] New proper experiment
+- [ ] Overall Organizations
+
+### Daily Missions
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+- [ ] Drawing
+
+### Documentation
+- [ ] Draw draft Roadmap
+- [ ] Rules for IG / ghost mode included
+- [ ] identity Tree - Who do i want to become. WHat are my traits. What kind of life i wanna build.
+
+### Side Missions
+- [ ] Gym
