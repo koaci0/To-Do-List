@@ -122,3 +122,23 @@ Side Missions:
 
 ### Side Missions
 - [ ] Gym
+
+---
+
+### 📝 18/11/26 WEDNESDAY
+
+### IG
+- [x] Koaci6 x2 reels
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+- [ ] Drawing
+
+### Documentation
+- [ ] Draw draft Roadmap
+- [ ] Rules for IG / ghost mode included
+- [ ] identity Tree - Who do i want to become. WHat are my traits. What kind of life i wanna build.
+
+### Side Missions
+- [ ] Gym
