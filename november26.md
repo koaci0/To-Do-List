@@ -148,7 +148,7 @@ Side Missions:
 ### 📝 19/11/26 THURSDAY
 
 ### Mission
-
+- [x] Koaci6 x3 reels
 
 ### School
 - [x] Moodle
