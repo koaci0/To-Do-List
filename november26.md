@@ -161,3 +161,12 @@ Side Missions:
 - [x] Koaci6 x1 reels
 
 ### School
+
+---
+
+### 📝 21/11/26 SATURDAY
+
+### Mission
+
+### School
+- [x] Objective test 2
