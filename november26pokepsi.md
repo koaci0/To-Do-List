@@ -30,13 +30,13 @@
 
 ---
 
-### 📝 18/11/26 WEDNESDAY
+### 📝 23/11/26 MONDAY
 
 ### Pokepsi
 - [ ] Quran Journaling
 - [ ] Hifdth list
 - [ ] subuh
-- [ ] zuhr
+- [X] zuhr
 - [ ] asr
 - [ ] maghrib
 - [ ] isya
