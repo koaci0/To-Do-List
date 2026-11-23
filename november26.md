@@ -189,3 +189,22 @@ Side Missions:
 - [ ] Part 2
 - [ ] Part 2
 - [ ] Part 2
+
+---
+
+### 📝 22/11/26 SUNDAY
+
+### Mission
+- [X] Organize brain
+
+### School
+- [ ] Objective test 2
+- [ ] Objective test 2
+- [ ] Objective test 2
+- [ ] Objective test 2
+- [ ] Objective test 2
+- [ ] Part 2
+- [ ] Part 2
+- [ ] Part 2
+- [ ] Part 2
+- [ ] Part 2
