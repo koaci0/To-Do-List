@@ -200,8 +200,9 @@ Side Missions:
 ### Misc
 - [X] Clean room
 
-### Misc
+### Fitness
 - [X] Push ups 5x1
+- [X] Squats 5x1
 
 ### School
 - [ ] Objective test 2
