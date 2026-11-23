@@ -197,6 +197,9 @@ Side Missions:
 ### Mission
 - [X] Organize brain
 
+### Misc
+- [X] Clean room
+
 ### School
 - [ ] Objective test 2
 - [ ] Objective test 2
