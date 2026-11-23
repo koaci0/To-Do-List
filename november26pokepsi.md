@@ -35,7 +35,7 @@
 ### Pokepsi
 - [ ] Quran Journaling
 - [ ] Hifdth list
-- [ ] subuh
+- [X] subuh
 - [X] zuhr
 - [ ] asr
 - [ ] maghrib
