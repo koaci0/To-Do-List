@@ -192,13 +192,16 @@ Side Missions:
 
 ---
 
-### 📝 22/11/26 SUNDAY
+### 📝 23/11/26 MONDAY
 
 ### Mission
 - [X] Organize brain
 
 ### Misc
 - [X] Clean room
+
+### Misc
+- [X] Push ups 5x1
 
 ### School
 - [ ] Objective test 2
